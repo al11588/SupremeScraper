@@ -2,4 +2,4 @@
 SupremeScraper
 ==============
 
-A Python Scrapper that uses Scrapy. I created it to scrap links from the Supreme website. 
+A Python Scrapper that uses the Scrapy Python Library. I created it to scrap links from the Supreme website. 
