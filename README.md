@@ -1,4 +1,4 @@
-![Image of Scrapy](http://quadloops.com/blog/wp-content/uploads/2014/03/Scrapy_logo.jpg)
+![Image of Scrapy](https://scrapy.org/img/scrapylogo.png)
 SupremeScraper
 ==============
 
